@@ -50,7 +50,6 @@ fun main() {
      */
     var x1 = 5
     val y1 = ++x1 // x = 6, y = 6
-    print(y1) // 6
 
     println("Incremento ++valor: ${++foo}") // 6
     println("Valor incremento(++valor) pre-fixado: $foo") // 6
