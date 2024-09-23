@@ -27,4 +27,4 @@ fun main() {
     var inputValue = scanner.nextInt()
     println(inputValue)
     scanner.close()
-}''
+}
